@@ -1,3 +1,3 @@
-# first-day
+# learning three-js
 
-This is the first day of my exploration into Three.js
+This is the diary of my exploration into Three.js
